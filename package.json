@@ -1,0 +1,9 @@
+{
+  "name": "lcdcoin",
+  "version": "1.0.0",
+  "description": "LCDcoin, the hottest coin made in NodeJS",
+  "main": "src/server.js",
+  "repository": "https://github.com/jamesjahng/lcdcoin",
+  "license": "MIT",
+  "private": false
+}
